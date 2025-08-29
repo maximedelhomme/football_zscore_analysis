@@ -14,6 +14,6 @@ Goal: Create a role-specific performance evaluation system inspired by professio
 - Role-based standardized score (out of 100)
 - Interactive dashboard with filters (position, age, footedness, league...)
 
-## Screenshots
+## Screenshot
 
 ![Dashboard](docs/Dashboard.PNG)
